@@ -1,2 +1,2 @@
-# jump-events
-Plugin for jump.Events
+# jump-events-plugin
+Plugin for loading jump.Events
