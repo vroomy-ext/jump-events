@@ -5,8 +5,8 @@ github.com/gdbu/atoms v1.0.1/go.mod h1:NAF1/IvAK0xby1xvmlRLBpapkWBhWL8dlcsxVDGuU
 github.com/gdbu/bst v0.2.0/go.mod h1:kmY0p9FL4r+YzTd8Hyy9uG/votaO/Ynt9m1+sSog5V8=
 github.com/gdbu/bst v0.3.1 h1:6XPSj56KVtc4cYi6pD+WxORL/LNMsj8zn9BznG/ksHs=
 github.com/gdbu/bst v0.3.1/go.mod h1:kmY0p9FL4r+YzTd8Hyy9uG/votaO/Ynt9m1+sSog5V8=
-github.com/gdbu/jump v0.21.6 h1:mxHnkYYodbb0l75oll73jZRUzwQSQQkb3dAHAZ+0J1E=
-github.com/gdbu/jump v0.21.6/go.mod h1:jHLyV2hn+V599pmAL35U6GFg62k86Bf1Itr0hjndujU=
+github.com/gdbu/jump v0.22.0 h1:Cz87QuLO8hHDK5UZuz/EWoGU+YPzTH0g9Yzxas19dpI=
+github.com/gdbu/jump v0.22.0/go.mod h1:YqFYJY/Y2vx24dHyeZQPMJEH61HdYQFrpWIvbw8Zk0Q=
 github.com/gdbu/queue v0.4.81 h1:QusSVhD2Nmodx9Eu6gJbAUu4Gb6j3JhrUlITArfj1Kc=
 github.com/gdbu/queue v0.4.81/go.mod h1:ustIG9c7ga0z2SbElMneWvOcWPOIkFvvg6JYbjK8LkU=
 github.com/gdbu/reflectio v0.1.3 h1:O/4WhuCqXDBCyKGUKYwBAIDNV2xoJpHVhZe4NAUMBsU=

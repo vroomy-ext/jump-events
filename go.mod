@@ -3,7 +3,7 @@ module github.com/vroomy-ext/jump-events-plugin
 go 1.20
 
 require (
-	github.com/gdbu/jump v0.21.6
+	github.com/gdbu/jump v0.22.0
 	github.com/vroomy/vroomy v0.17.0
 )
 
